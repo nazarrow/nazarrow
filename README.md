@@ -1,16 +1,18 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**nazarrow/nazarrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello! I'm Aleksei
+# Welcome to my GitHub:)
 
-Here are some ideas to get you started:
+### I'm trainee QA Engeneer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<hr>
+
+### **Contacts:**
+
+| [LinkedIn][li] | [Telegram][tg] |
+
+[tg]: https://t.me/Naz_arrow
+[li]: https://www.linkedin.com/in/nazarrow-lex
+	
+<div>
