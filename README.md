@@ -15,9 +15,9 @@
 [tg]: https://t.me/Naz_arrow
 [li]: https://www.linkedin.com/in/nazarrow-lex
 	
-</div>
+<div>
 	
-	 <h1 align="center"> I explore next tools:</h1>
+# I explore next tools:
 
 <div align="center">
 	<img alt="devtools" width="73px" src="https://user-images.githubusercontent.com/89486551/143319750-2f729405-4b8a-4f73-8e16-b5c7780517fc.png" />
