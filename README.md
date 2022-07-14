@@ -3,7 +3,7 @@
 # Hello! I'm Aleksei
 # Welcome to my GitHub:)
 
-### I'm a trainee QA Engineer
+### I'm a QA Engineer
 
 
 <hr>
