@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/BnmodtcEPxp6VYrw1K/giphy.gif" width="100"/>
+</div>
+
+
 <div align="center">
 
 # Hello! I'm Aleksei
