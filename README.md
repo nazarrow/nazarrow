@@ -53,3 +53,7 @@ Welcome to my GitHub:)
     <img src="https://komarev.com/ghpvc/?username=nazarrow&style=flat-square&color=blue" alt=""/>
   <p/>
 </div>
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</div>  
