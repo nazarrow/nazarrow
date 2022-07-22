@@ -2,33 +2,55 @@
   <img src="https://media.giphy.com/media/BnmodtcEPxp6VYrw1K/giphy.gif" width="100"/>
 </div>
 
+<div id="badges">
+  <p align="center">
+    <a href="https://t.me/Naz_arrow">
+      <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram" alt="Telegram Badge"/>
+    </a>
+  <a href="https://www.linkedin.com/in/nazarrow-lex">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <p/>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=nazarrow&style=flat-square&color=blue" alt=""/>
+  <p/>
+</div>
 
-<div align="center">
+---
 
-# Hello! I'm Aleksei
-# Welcome to my GitHub:)
+### :man_technologist: About Me :
+I am a QA engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus, Minsk.
+Welcome to my GitHub:)
+---
 
-### I'm a QA Engineer
-
-
-<hr>
-
-### **Contacts:**
-
-| [LinkedIn][li] | [Telegram][tg] |
-
-[tg]: https://t.me/Naz_arrow
-[li]: https://www.linkedin.com/in/nazarrow-lex
-	
+### :hammer_and_wrench: Tools :
 <div>
-	
-# I explore next tools:
+<h1>These icons are clickable.</h1>
+</a>
 
-<div align="center">
-	<img alt="devtools" width="73px" src="https://user-images.githubusercontent.com/89486551/143319750-2f729405-4b8a-4f73-8e16-b5c7780517fc.png" />
-	<img alt="dbeaver" width="73px" src="https://user-images.githubusercontent.com/89486551/143319757-0bbd31ce-7860-447a-9571-504653849d0b.png" />
-	<img alt="PostgreSQL" width="73px" src="https://user-images.githubusercontent.com/89486551/143319773-17f2e07b-8dc2-4f02-9b60-e9f0b421ce06.png" />
-	<img alt="Git" width="73px" src="https://user-images.githubusercontent.com/89486551/143319775-c711ac23-04f8-44dd-9a0b-ea3698467e9e.png" />
-	<img alt="charles" width="73px" src="https://user-images.githubusercontent.com/89486551/143319787-e5eb9aa4-5b57-454f-b903-64282274af76.png" />
-	<img alt="android-studio" width="73px" src="https://user-images.githubusercontent.com/89486551/143319797-01713acf-1cc6-49c9-ae92-d520d55cef17.png" />
-	<img alt="postman" width="73px" src="https://user-images.githubusercontent.com/89486551/143319803-99550e9f-bdde-4354-b38a-a3aa8ffc9a77.png" />
+  <a href="https://github.com/nazarrow/Postman">
+    <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_macos_bigsur_icon_189815.png" title="postman" alt="postman" width="50" height="50"/></a>
+  </a>
+  <a href="https://github.com/nazarrow/Terminal">
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/git_plain_logo_icon_146507.png" title="git" alt="git" width="50" height="50"/></a>  
+  </a>
+  <a href="https://github.com/nazarrow/JavaScript">
+    <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" title="js" alt="js" width="50" height="50"/>
+  </a> 
+  <a href="https://github.com/nazarrow/Chrome-DevTools">
+    <img src="https://cdn.icon-icons.com/icons2/2552/PNG/512/chrome_devtools_browser_logo_icon_153005.png" title="chrome_devtools" alt="chrome_devtools" width="50"   height="50"/>
+  </a> 
+  <a href="https://github.com/nazarrow/Git_branch">
+    <img src="https://cdn.icon-icons.com/icons2/2406/PNG/512/github_git_icon_145985.png" title="github" alt="github" width="50" height="50"/>
+  </a> 
+  <a href="https://github.com/nazarrow/Web_form">
+    <img src="https://cdn.icon-icons.com/icons2/1856/PNG/512/bug-report_117686.png" title="github" alt="github" width="50" height="50"/>
+  </a> 
+
+<img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/dbeaver_103190.png" title="dbeaver" alt="dbeaver" width="50" height="50"/>
+<img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/androidstudio_103298.png" title="android_studio" alt="android_studio" width="50" height="50"/>
+<img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_code_alt_macos_bigsur_icon_189952.png" title="microsoft_visual_studio" alt="microsoft_visual_studio" width="50" height="50"/> 
+
+</div>
+
+---
