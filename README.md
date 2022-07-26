@@ -1,20 +1,14 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/BnmodtcEPxp6VYrw1K/giphy.gif" width="300"/>
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&center=true&vCenter=true&width=450&lines=Hello+%F0%9F%91%8B+my+friend!+;I%60m+a+QA+engineer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+from+Minsk%2C+Belarus;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 ---
 
 ### :man_technologist: About Me :
-I am a QA engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus, Minsk.
-Welcome to my GitHub:)
+At the moment, I am studying and gaining commercial experience <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> on the author's course by Vadim Ksendzov. 
 
 ---
 
 ### :hammer_and_wrench: Tools :
 <div>
-<h3>These icons are clickable.</h3>
-</a>
-
   <a href="https://github.com/nazarrow/Postman">
     <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_macos_bigsur_icon_189815.png" title="postman" alt="postman" width="50" height="50"/></a>
   </a>
@@ -36,6 +30,7 @@ Welcome to my GitHub:)
 <img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/dbeaver_103190.png" title="dbeaver" alt="dbeaver" width="50" height="50"/>
 <img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/androidstudio_103298.png" title="android_studio" alt="android_studio" width="50" height="50"/>
 <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_code_alt_macos_bigsur_icon_189952.png" title="microsoft_visual_studio" alt="microsoft_visual_studio" width="50" height="50"/> 
+<h4>These icons are clickable.</h4>
 </div>
 
 ---
