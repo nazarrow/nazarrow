@@ -1,0 +1,137 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=40&center=true&vCenter=true&multiline=true&width=1000&height=250&lines=Hello+%F0%9F%91%8B+my+friend!+;I%60m+a+QA+engineer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+from+Minsk%2C+Belarus;Welcome+to+my+GitHub+%F0%9F%98%89)](https://git.io/typing-svg)
+
+## :man_technologist: About Me:
+I consider myself a goal-oriented person. I'm constantly acquiring new knowledge, skills and experience in software testing. Such qualities as communication skills, ability to multitask, responsibility and flexibility in decision-making make me a good team player.
+
+## <img src = "https://cdn-icons-png.flaticon.com/512/6171/6171939.png" width="30" height="30"/> Soft skills:
+- Good communication and good teamwork skills; 
+- High level of time management;
+- Ability to adapt and attention on details, work with necessary information; 
+- Always looking to gain new knowledge;
+- Self-motivated and purposeful.
+## :wrench: Hard skills:
+### API
+<div> 
+  <a href="https://github.com/nazarrow/Postman">
+    <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/Postman.png" title="Postman" alt="Postman" width="50" height="50" />
+  </a>
+  <a href="">
+    <img src="" title="Swagger" alt="Swagger" width="50" height="50" />
+  </a>
+</div>
+
+### Databases
+#### Database management system (DBMS)
+<div>
+  <a href="">
+    <img src="" title="PostgreSQL" alt="PostgreSQL" width="50" height="50" />
+  </a>
+  <a href="">
+    <img src="" title="MySQL" alt="MySQL" width="50" height="50" />
+  </a>
+</div>
+
+#### GUI
+<div>
+  <a href="">
+    <img src="" title="PgAdmin" alt="PgAdmin" width="50" height="50" />
+  </a>
+  <a href="">
+    <img src="" title="DBeaver" alt="DBeaver" width="50" height="50" />
+  </a>
+  <a href="">
+    <img src="" title="DataGrip" alt="DataGrip" width="50" height="50" />
+  </a>
+  <a href="">
+    <img src="" title="MySql_workbench" alt="MySql_workbench" width="50" height="50" />
+  </a>
+</div>
+
+### Proxy (traffic sniffers)
+<div>  
+  <a href="">
+    <img src="" title="Charles_proxy" alt="Charles_proxy" width="50" height="50"/> 
+  </a>
+</div>
+
+### Git, GitBash
+<div>  
+  <a href="">
+    <img src="" title="Git" alt="Git" width="50" height="50"/> 
+  </a>
+  <a href="">
+    <img src="" title="GitBash" alt="GitBash" width="50" height="50"/>
+  </a>
+</div>
+
+### Mobile
+<div>  
+  <a href="">
+    <img src="" title="Android_Studio" alt="Android_Studio" width="50" height="50"/> 
+  </a>
+  <a href="">
+    <img src="" title="Appium" alt="Appium" width="50" height="50"/>
+  </a>
+</div>
+
+### WEB
+<div>  
+  <a href="">
+    <img src="" title="Chrome-DevTools" alt="Chrome-DevTools" width="50" height="50"/>
+  </a>
+</div>
+
+### Programming languages
+<div>
+  <a href="">
+    <img src="" title="JavaScript" alt="JavaScript" width="50" height="50"/>
+  </a>
+</div>
+
+### Testing theory, network theory, test management systems
+<div>
+  <a href="">
+    <img src="" title="Testing_theory" alt="Testing_theory" width="50" height="50"/>
+  </a>
+  <a href="https://github.com/nazarrow/ISTQB">
+    <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/istqb.png" title="ISTQB" alt="ISTQB" width="50" height="50"/>
+  </a>
+  <a href="">
+    <img src="" title="network_theory" alt="network_theory" width="50" height="50"/>
+  </a>
+  <a>
+  <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/Jira.png" title="Jira" alt="Jira" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/Qase.io.png" title="Qase" alt="Qase" width="50" height="50"/>
+  </a>
+</div>
+
+## :scroll: Certificates:
+
+[Introduction to databases](https://stepik.org/cert/1894075)  
+[Interactive SQL Trainer](https://stepik.org/cert/1862842)  
+[Software Testing: Postman for API Testing](https://stepik.org/cert/1739201)  
+[The universe of testing, or how to become a tester](https://stepik.org/cert/1759156)
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="150px"/>
+</div>  
+
+<div id="badges">
+  <p align="center">
+    <a href="https://t.me/Naz_arrow">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram" alt="Telegram Badge"/>
+    </a>
+  <a href="https://www.linkedin.com/in/nazarrow-lex">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <p/>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=nazarrow&style=flat-square&color=blue" alt=""/>
+  <p/>
+</div>
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</div>  
