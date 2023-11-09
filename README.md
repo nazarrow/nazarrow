@@ -12,92 +12,92 @@ I consider myself a goal-oriented person. I'm constantly acquiring new knowledge
 ## :wrench: Hard skills:
 ### API
 <div> 
-  <a href="https://github.com/nazarrow/Postman">
+  <a href="https://github.com/nazarrow/3.API/tree/main/Postman">
     <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/Postman.png" title="Postman" alt="Postman" width="50" height="50" />
   </a>
-  <a href="">
-    <img src="" title="Swagger" alt="Swagger" width="50" height="50" />
+  <a href="https://github.com/nazarrow/3.API/tree/main/Swagger">
+    <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/swagger.png" title="Swagger" alt="Swagger" width="50" height="50" />
   </a>
 </div>
 
 ### Databases
 #### Database management system (DBMS)
 <div>
-  <a href="">
-    <img src="" title="PostgreSQL" alt="PostgreSQL" width="50" height="50" />
+  <a href="https://github.com/nazarrow/4.Databases">
+    <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/postgresql.png" title="PostgreSQL" alt="PostgreSQL" width="50" height="50" />
   </a>
-  <a href="">
-    <img src="" title="MySQL" alt="MySQL" width="50" height="50" />
+  <a href="https://github.com/nazarrow/4.Databases">
+    <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/mysql.png" title="MySQL" alt="MySQL" width="50" height="50" />
   </a>
 </div>
 
 #### GUI
 <div>
-  <a href="">
-    <img src="" title="PgAdmin" alt="PgAdmin" width="50" height="50" />
+  <a href="https://github.com/nazarrow/4.Databases">
+    <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/postgresql.png" title="PgAdmin" alt="PgAdmin" width="50" height="50" />
   </a>
-  <a href="">
-    <img src="" title="DBeaver" alt="DBeaver" width="50" height="50" />
+  <a href="https://github.com/nazarrow/4.Databases/tree/main/Practice/SQL_HW_DBeaver">
+    <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/DBeaver.png" title="DBeaver" alt="DBeaver" width="50" height="50" />
   </a>
-  <a href="">
-    <img src="" title="DataGrip" alt="DataGrip" width="50" height="50" />
+  <a href="https://github.com/nazarrow/4.Databases">
+    <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/datagrip.png" title="DataGrip" alt="DataGrip" width="50" height="50" />
   </a>
-  <a href="">
-    <img src="" title="MySql_workbench" alt="MySql_workbench" width="50" height="50" />
+  <a href="https://github.com/nazarrow/4.Databases">
+    <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/mysql_workbench.png" title="MySql_workbench" alt="MySql_workbench" width="50" height="50" />
   </a>
 </div>
 
 ### Proxy (traffic sniffers)
 <div>  
-  <a href="">
-    <img src="" title="Charles_proxy" alt="Charles_proxy" width="50" height="50"/> 
+  <a href="https://github.com/nazarrow/5.Traffic_sniffers/tree/main/Charles_proxy">
+    <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/Charles_proxy.png" title="Charles_proxy" alt="Charles_proxy" width="50" height="50"/> 
   </a>
 </div>
 
 ### Git, GitBash
 <div>  
-  <a href="">
-    <img src="" title="Git" alt="Git" width="50" height="50"/> 
+  <a href="https://github.com/nazarrow/6.Git_GitBash_Linux">
+    <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/git.png" title="Git" alt="Git" width="50" height="50"/> 
   </a>
-  <a href="">
-    <img src="" title="GitBash" alt="GitBash" width="50" height="50"/>
+  <a href="https://github.com/nazarrow/6.Git_GitBash_Linux">
+    <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/GitBash.png" title="GitBash" alt="GitBash" width="50" height="50"/>
   </a>
 </div>
 
 ### Mobile
 <div>  
-  <a href="">
-    <img src="" title="Android_Studio" alt="Android_Studio" width="50" height="50"/> 
+  <a href="https://github.com/nazarrow/7.Mobile_testing">
+    <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/android_studio.png" title="Android_Studio" alt="Android_Studio" width="50" height="50"/> 
   </a>
-  <a href="">
-    <img src="" title="Appium" alt="Appium" width="50" height="50"/>
+  <a href="https://github.com/nazarrow/7.Mobile_testing">
+    <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/appium.png" title="Appium" alt="Appium" width="50" height="50"/>
   </a>
 </div>
 
 ### WEB
 <div>  
-  <a href="">
-    <img src="" title="Chrome-DevTools" alt="Chrome-DevTools" width="50" height="50"/>
+  <a href="https://github.com/nazarrow/8.WEB_testing">
+    <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/chrome_dev_browser.png" title="Chrome-DevTools" alt="Chrome-DevTools" width="50" height="50"/>
   </a>
 </div>
 
 ### Programming languages
 <div>
-  <a href="">
-    <img src="" title="JavaScript" alt="JavaScript" width="50" height="50"/>
+  <a href="https://github.com/nazarrow/9.Programming_languages/tree/main/JavaScript">
+    <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/javascript.png" title="JavaScript" alt="JavaScript" width="50" height="50"/>
   </a>
 </div>
 
 ### Testing theory, network theory, test management systems
 <div>
-  <a href="">
-    <img src="" title="Testing_theory" alt="Testing_theory" width="50" height="50"/>
+  <a href="https://github.com/nazarrow/1.Testing_theory">
+    <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/qa.png" title="Testing_theory" alt="Testing_theory" width="50" height="50"/>
   </a>
-  <a href="https://github.com/nazarrow/ISTQB">
+  <a href="https://github.com/nazarrow/1.Testing_theory/blob/main/ISTQB.md">
     <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/istqb.png" title="ISTQB" alt="ISTQB" width="50" height="50"/>
   </a>
-  <a href="">
-    <img src="" title="network_theory" alt="network_theory" width="50" height="50"/>
+  <a href="https://github.com/nazarrow/2.Networks_and_other">
+    <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/computer.png" title="network_theory" alt="network_theory" width="50" height="50"/>
   </a>
   <a>
   <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/Jira.png" title="Jira" alt="Jira" width="50" height="50"/>
@@ -110,7 +110,9 @@ I consider myself a goal-oriented person. I'm constantly acquiring new knowledge
 [Introduction to databases](https://stepik.org/cert/1894075)  
 [Interactive SQL Trainer](https://stepik.org/cert/1862842)  
 [Software Testing: Postman for API Testing](https://stepik.org/cert/1739201)  
-[The universe of testing, or how to become a tester](https://stepik.org/cert/1759156)
+[The universe of testing, or how to become a tester](https://stepik.org/cert/1759156)  
+[Web Development for Beginners: HTML and CSS](https://stepik.org/cert/2179033)   
+[Certificate of Artem Rusov: Software testing from scratch](https://drive.google.com/file/d/1VwTISFCtWbEHcY5BpLQxBxSQppiZSI0Z/view)
 
 ---
 
