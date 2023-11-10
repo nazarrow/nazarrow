@@ -111,7 +111,7 @@ I consider myself a goal-oriented person. I'm constantly acquiring new knowledge
     <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/rabbitmq.png" title="RabbitMQ" alt="RabbitMQ" width="40" height="40"/>
   </a>
   <a href="https://github.com/nazarrow/10.Message_brokers/blob/main/Apache%20Kafka.md">
-    <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/kafka.png" title="Apache_Kafka" alt="Apache_Kafka" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/apache_kafka.png" title="Apache_Kafka" alt="Apache_Kafka" width="40" height="40"/>
   </a>
 </div>
 
