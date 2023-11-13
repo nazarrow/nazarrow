@@ -115,6 +115,13 @@ I consider myself a goal-oriented person. I'm constantly acquiring new knowledge
   </a>
 </div>
 
+### Monitoring systems
+<div>
+  <a href="https://github.com/nazarrow/11.Monitoring_systems">
+    <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/zabbix.png" title="Zabbix" alt="Zabbix" width="40" height="40"/>
+  </a>
+</div>
+
 ## :scroll: Certificates:
 
 [Introduction to databases](https://stepik.org/cert/1894075)  
