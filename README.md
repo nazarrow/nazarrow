@@ -15,7 +15,7 @@ I consider myself a goal-oriented person. I'm constantly acquiring new knowledge
   <tbody>
     <tr>
       <td rowspan="2">Databases</td>
-      <td>Database management system (DBMS)</td>
+      <td>DBMS</td>
       <td>
         <a href="https://github.com/nazarrow/4.Databases">
         <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/postgresql.png" title="PostgreSQL" alt="PostgreSQL" width="40" height="40" />
@@ -51,7 +51,7 @@ I consider myself a goal-oriented person. I'm constantly acquiring new knowledge
       </td>
     </tr>
     <tr>
-      <td>API</td>
+      <td colspan="1">API</td>
       <td></td>
       <td>
         <a href="https://github.com/nazarrow/3.API/tree/main/Postman">
@@ -65,7 +65,7 @@ I consider myself a goal-oriented person. I'm constantly acquiring new knowledge
       </td>
     </tr>
     <tr>
-      <td>Proxy (traffic sniffers)</td>
+      <td colspan="1">Proxy (traffic sniffers)</td>
       <td></td>
       <td>
         <a href="https://github.com/nazarrow/5.Traffic_sniffers/tree/main/Charles_proxy">
@@ -74,7 +74,7 @@ I consider myself a goal-oriented person. I'm constantly acquiring new knowledge
       </td>
     </tr>
     <tr>
-      <td>Git, GitBash</td>
+      <td colspan="1">Git, GitBash</td>
       <td></td>
       <td>
         <a href="https://github.com/nazarrow/6.Git_GitBash_Linux">
@@ -88,7 +88,7 @@ I consider myself a goal-oriented person. I'm constantly acquiring new knowledge
       </td>
     </tr>
     <tr>
-      <td>Mobile</td>
+      <td colspan="1">Mobile</td>
       <td></td>
       <td>
         <a href="https://github.com/nazarrow/7.Mobile_testing">
@@ -102,7 +102,7 @@ I consider myself a goal-oriented person. I'm constantly acquiring new knowledge
       </td>
     </tr>
     <tr>
-      <td>WEB</td>
+      <td colspan="1">WEB</td>
       <td></td>
       <td>
         <a href="https://github.com/nazarrow/8.WEB_testing">
@@ -111,7 +111,7 @@ I consider myself a goal-oriented person. I'm constantly acquiring new knowledge
       </td>
     </tr>
     <tr>
-      <td>Programming languages</td>
+      <td colspan="1">Programming languages</td>
       <td></td>
       <td>
         <a href="https://github.com/nazarrow/9.Programming_languages/tree/main/JavaScript">
@@ -120,7 +120,7 @@ I consider myself a goal-oriented person. I'm constantly acquiring new knowledge
       </td>
     </tr>
     <tr>
-      <td>Testing theory, network theory, test management systems</td>
+      <td colspan="1">Testing theory, network theory, test management systems</td>
       <td></td>
       <td>
         <a href="https://github.com/nazarrow/1.Testing_theory">
@@ -141,7 +141,7 @@ I consider myself a goal-oriented person. I'm constantly acquiring new knowledge
       <td><img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/Qase.io.png" title="Qase" alt="Qase" width="40" height="40"/></td>
     </tr>
     <tr>
-      <td>Message brokers</td>
+      <td colspan="1">Message brokers</td>
       <td></td>
       <td>
         <a href="https://github.com/nazarrow/10.Message_brokers">
@@ -155,7 +155,7 @@ I consider myself a goal-oriented person. I'm constantly acquiring new knowledge
       </td>
     </tr>
     <tr>
-      <td>Monitoring systems</td>
+      <td colspan="1">Monitoring systems</td>
       <td></td>
       <td>
         <a href="https://github.com/nazarrow/11.Monitoring_systems">
@@ -165,7 +165,7 @@ I consider myself a goal-oriented person. I'm constantly acquiring new knowledge
       <td></td>
     </tr>
     <tr>
-      <td>Containerization systems </td>
+      <td colspan="1">Containerization systems </td>
       <td></td>
       <td>
         <a href="https://github.com/nazarrow/12.Docker">
