@@ -10,117 +10,173 @@ I consider myself a goal-oriented person. I'm constantly acquiring new knowledge
 - Always looking to gain new knowledge;
 - Self-motivated and purposeful.
 ## :wrench: Hard skills:
-### API
-<div> 
-  <a href="https://github.com/nazarrow/3.API/tree/main/Postman">
-    <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/Postman.png" title="Postman" alt="Postman" width="40" height="40" />
-  </a>
-  <a href="https://github.com/nazarrow/3.API/tree/main/Swagger">
-    <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/swagger.png" title="Swagger" alt="Swagger" width="40" height="40" />
-  </a>
-</div> 
-
-### Databases
-#### Database management system (DBMS)
-<div> 
-  <a href="https://github.com/nazarrow/4.Databases">
-    <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/postgresql.png" title="PostgreSQL" alt="PostgreSQL" width="40" height="40" />
-  </a>
-  <a href="https://github.com/nazarrow/4.Databases">
-    <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/mysql.png" title="MySQL" alt="MySQL" width="40" height="40" />
-  </a>
-</div>
-
-#### GUI
 <div>
-  <a href="https://github.com/nazarrow/4.Databases">
-    <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/PGadmin.png" title="PgAdmin" alt="PgAdmin" width="40" height="40" />
-  </a>
-  <a href="https://github.com/nazarrow/4.Databases/tree/main/Practice/SQL_HW_DBeaver">
-    <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/DBeaver.png" title="DBeaver" alt="DBeaver" width="40" height="40" />
-  </a>
-  <a href="https://github.com/nazarrow/4.Databases">
-    <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/datagrip.png" title="DataGrip" alt="DataGrip" width="40" height="40" />
-  </a>
-  <a href="https://github.com/nazarrow/4.Databases">
-    <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/mysql_workbench.png" title="MySql_workbench" alt="MySql_workbench" width="40" height="40" />
-  </a>
+<table>
+  <tbody>
+    <tr>
+      <td rowspan="2">Databases</td>
+      <td>Database management system (DBMS)</td>
+      <td>
+        <a href="https://github.com/nazarrow/4.Databases">
+        <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/postgresql.png" title="PostgreSQL" alt="PostgreSQL" width="40" height="40" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/nazarrow/4.Databases">
+        <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/mysql.png" title="MySQL" alt="MySQL" width="40" height="40" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>GUI</td>
+      <td>
+        <a href="https://github.com/nazarrow/4.Databases">
+        <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/PGadmin.png" title="PgAdmin" alt="PgAdmin" width="40" height="40" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/nazarrow/4.Databases/tree/main/Practice/SQL_HW_DBeaver">
+        <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/DBeaver.png" title="DBeaver" alt="DBeaver" width="40" height="40" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/nazarrow/4.Databases">
+        <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/datagrip.png" title="DataGrip" alt="DataGrip" width="40" height="40" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/nazarrow/4.Databases">
+        <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/mysql_workbench.png" title="MySql_workbench" alt="MySql_workbench" width="40" height="40" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>API</td>
+      <td></td>
+      <td>
+        <a href="https://github.com/nazarrow/3.API/tree/main/Postman">
+        <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/Postman.png" title="Postman" alt="Postman" width="40" height="40" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/nazarrow/3.API/tree/main/Swagger">
+        <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/swagger.png" title="Swagger" alt="Swagger" width="40" height="40" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Proxy (traffic sniffers)</td>
+      <td></td>
+      <td>
+        <a href="https://github.com/nazarrow/5.Traffic_sniffers/tree/main/Charles_proxy">
+        <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/Charles_proxy.png" title="Charles_proxy" alt="Charles_proxy" width="40" height="40"/> 
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Git, GitBash</td>
+      <td></td>
+      <td>
+        <a href="https://github.com/nazarrow/6.Git_GitBash_Linux">
+        <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/git.png" title="Git" alt="Git" width="40" height="40"/> 
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/nazarrow/6.Git_GitBash_Linux">
+        <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/GitBash.png" title="GitBash" alt="GitBash" width="40" height="40"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Mobile</td>
+      <td></td>
+      <td>
+        <a href="https://github.com/nazarrow/7.Mobile_testing">
+        <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/android_studio.png" title="Android_Studio" alt="Android_Studio" width="40" height="40"/> 
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/nazarrow/7.Mobile_testing">
+        <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/appium.png" title="Appium" alt="Appium" width="40" height="40"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>WEB</td>
+      <td></td>
+      <td>
+        <a href="https://github.com/nazarrow/8.WEB_testing">
+        <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/chrome_dev_browser.png" title="Chrome-DevTools" alt="Chrome-DevTools" width="40" height="40"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Programming languages</td>
+      <td></td>
+      <td>
+        <a href="https://github.com/nazarrow/9.Programming_languages/tree/main/JavaScript">
+        <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/javascript.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Testing theory, network theory, test management systems</td>
+      <td></td>
+      <td>
+        <a href="https://github.com/nazarrow/1.Testing_theory">
+        <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/qa.png" title="Testing_theory" alt="Testing_theory" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/nazarrow/1.Testing_theory/blob/main/ISTQB.md">
+        <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/istqb.png" title="ISTQB" alt="ISTQB" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/nazarrow/2.Networks_and_other">
+        <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/computer.png" title="network_theory" alt="network_theory" width="40" height="40"/>
+        </a>
+      </td>
+      <td><img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/Jira.png" title="Jira" alt="Jira" width="40" height="40"/></td>
+      <td><img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/Qase.io.png" title="Qase" alt="Qase" width="40" height="40"/></td>
+    </tr>
+    <tr>
+      <td>Message brokers</td>
+      <td></td>
+      <td>
+        <a href="https://github.com/nazarrow/10.Message_brokers">
+        <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/rabbitmq.png" title="RabbitMQ" alt="RabbitMQ" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/nazarrow/10.Message_brokers/blob/main/Apache%20Kafka.md">
+        <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/apache_kafka.png" title="Apache_Kafka" alt="Apache_Kafka" width="40" height="40"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Monitoring systems</td>
+      <td></td>
+      <td>
+        <a href="https://github.com/nazarrow/11.Monitoring_systems">
+        <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/zabbix.png" title="Zabbix" alt="Zabbix" width="40" height="40"/>
+        </a>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Containerization systems </td>
+      <td></td>
+      <td>
+        <a href="https://github.com/nazarrow/12.Docker">
+        <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/docker.png" title="Docker" alt="Docker" width="40" height="40"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 </div>
 
-### Proxy (traffic sniffers)
-<div>  
-  <a href="https://github.com/nazarrow/5.Traffic_sniffers/tree/main/Charles_proxy">
-    <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/Charles_proxy.png" title="Charles_proxy" alt="Charles_proxy" width="40" height="40"/> 
-  </a>
-</div>
-
-### Git, GitBash
-<div>  
-  <a href="https://github.com/nazarrow/6.Git_GitBash_Linux">
-    <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/git.png" title="Git" alt="Git" width="40" height="40"/> 
-  </a>
-  <a href="https://github.com/nazarrow/6.Git_GitBash_Linux">
-    <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/GitBash.png" title="GitBash" alt="GitBash" width="40" height="40"/>
-  </a>
-</div>
-
-### Mobile
-<div>  
-  <a href="https://github.com/nazarrow/7.Mobile_testing">
-    <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/android_studio.png" title="Android_Studio" alt="Android_Studio" width="40" height="40"/> 
-  </a>
-  <a href="https://github.com/nazarrow/7.Mobile_testing">
-    <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/appium.png" title="Appium" alt="Appium" width="40" height="40"/>
-  </a>
-</div>
-
-### WEB
-<div>  
-  <a href="https://github.com/nazarrow/8.WEB_testing">
-    <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/chrome_dev_browser.png" title="Chrome-DevTools" alt="Chrome-DevTools" width="40" height="40"/>
-  </a>
-</div>
-
-### Programming languages
-<div>
-  <a href="https://github.com/nazarrow/9.Programming_languages/tree/main/JavaScript">
-    <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/javascript.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-  </a>
-</div>
-
-### Testing theory, network theory, test management systems
-<div>
-  <a href="https://github.com/nazarrow/1.Testing_theory">
-    <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/qa.png" title="Testing_theory" alt="Testing_theory" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/nazarrow/1.Testing_theory/blob/main/ISTQB.md">
-    <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/istqb.png" title="ISTQB" alt="ISTQB" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/nazarrow/2.Networks_and_other">
-    <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/computer.png" title="network_theory" alt="network_theory" width="40" height="40"/>
-  </a>
-  <a>
-  <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/Jira.png" title="Jira" alt="Jira" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/Qase.io.png" title="Qase" alt="Qase" width="40" height="40"/>
-  </a>
-</div>
-
-### Message brokers
-<div>
-  <a href="https://github.com/nazarrow/10.Message_brokers">
-    <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/rabbitmq.png" title="RabbitMQ" alt="RabbitMQ" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/nazarrow/10.Message_brokers/blob/main/Apache%20Kafka.md">
-    <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/apache_kafka.png" title="Apache_Kafka" alt="Apache_Kafka" width="40" height="40"/>
-  </a>
-</div>
-
-### Monitoring systems
-<div>
-  <a href="https://github.com/nazarrow/11.Monitoring_systems">
-    <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/zabbix.png" title="Zabbix" alt="Zabbix" width="40" height="40"/>
-  </a>
-</div>
 
 ## :scroll: Certificates:
 
