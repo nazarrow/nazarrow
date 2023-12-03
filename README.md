@@ -1,15 +1,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=40&center=true&vCenter=true&multiline=true&width=1000&height=250&lines=Hello+%F0%9F%91%8B+my+friend!+;I%60m+a+QA+engineer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+from+Minsk%2C+Belarus;Welcome+to+my+GitHub+%F0%9F%98%89)](https://git.io/typing-svg)
 
-## :man_technologist: About Me:
+## <img src = "https://cdn.icon-icons.com/icons2/1485/PNG/512/cv_102350.png" width="30" height="30"/> About Me:
 I consider myself a goal-oriented person. I'm constantly acquiring new knowledge, skills and experience in software testing. Such qualities as communication skills, ability to multitask, responsibility and flexibility in decision-making make me a good team player.
 
-## <img src = "https://cdn-icons-png.flaticon.com/512/6171/6171939.png" width="30" height="30"/> Soft skills:
+## <img src = "https://cdn.icon-icons.com/icons2/1485/PNG/512/rotation_102346.png" width="30" height="30"/> Soft skills:
 - Good communication and good teamwork skills; 
 - High level of time management;
 - Ability to adapt and attention on details, work with necessary information; 
 - Always looking to gain new knowledge;
 - Self-motivated and purposeful.
-## :wrench: Hard skills:
+
+## <img src = "https://cdn.icon-icons.com/icons2/1485/PNG/512/system_102355.png" width="30" height="30"/> Hard skills:
+
 <div>
 <table>
   <tbody>
@@ -177,8 +179,7 @@ I consider myself a goal-oriented person. I'm constantly acquiring new knowledge
 </table>
 </div>
 
-
-## :scroll: Certificates:
+## <img src = "https://cdn.icon-icons.com/icons2/1485/PNG/512/graduate_102352.png" width="30" height="30"/> Certificates:
 
 [Introduction to databases](https://stepik.org/cert/1894075)  
 [Interactive SQL Trainer](https://stepik.org/cert/1862842)  
