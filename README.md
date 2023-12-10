@@ -1,6 +1,7 @@
 <a href="https://git.io/typing-svg"><img
     src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=40&color=5730AC&center=true&vCenter=true&multiline=true&random=false&width=1000&height=250&lines=Hello+%F0%9F%91%8B;I'm+a+software+QA+engineer+%F0%9F%95%B5;Welcome+to+my+page+%F0%9F%98%89"
     alt="Typing SVG" /></a>
+
 <div>
   <h1><img src="https://cdn.icon-icons.com/icons2/1055/PNG/128/10-info-cat_icon-icons.com_76686.png" width="30"
       height="30" />About Me:</h1>
@@ -214,24 +215,27 @@
       height="30" />Certificates:</h1>
   <ul>
     <li>
+      <a href="https://stepik.org/cert/2282328">Docker for beginners + practical experience</a>
+    </li>
+    <li>
+      <a href="https://drive.google.com/file/d/1VwTISFCtWbEHcY5BpLQxBxSQppiZSI0Z/view">Certificate of Artem Rusov:
+        Software testing from
+        scratch</a>
+    </li>
+    <li>
+      <a href="https://stepik.org/cert/2179033">Web Development for Beginners: HTML and CSS</a>
+    </li>
+    <li>
       <a href="https://stepik.org/cert/1894075">Introduction to databases</a>
     </li>
     <li>
       <a href="https://stepik.org/cert/1862842">Interactive SQL Trainer</a>
     </li>
     <li>
-      <a href="https://stepik.org/cert/1739201">Software Testing: Postman for API Testing</a>
-    </li>
-    <li>
       <a href="https://stepik.org/cert/1759156">The universe of testing, or how to become a tester</a>
     </li>
     <li>
-      <a href="https://stepik.org/cert/2179033">Web Development for Beginners: HTML and CSS</a>
-    </li>
-    <li>
-      <a href="https://drive.google.com/file/d/1VwTISFCtWbEHcY5BpLQxBxSQppiZSI0Z/view">Certificate of Artem Rusov:
-        Software testing from
-        scratch</a>
+      <a href="https://stepik.org/cert/1739201">Software Testing: Postman for API Testing</a>
     </li>
   </ul>
 </div>
