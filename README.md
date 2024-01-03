@@ -138,6 +138,12 @@
         <td colspan="1">Programming languages</td>
         <td></td>
         <td>
+          <a href="https://github.com/nazarrow/9.Programming_languages">
+            <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/java.png" title="Java"
+              alt="Java" width="40" height="60" />
+          </a>
+        </td>
+        <td>
           <a href="https://github.com/nazarrow/9.Programming_languages/tree/main/JavaScript">
             <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/javascript.png" title="JavaScript"
               alt="JavaScript" width="40" height="40" />
