@@ -139,7 +139,7 @@
                 <td colspan="1">Programming languages</td>
                 <td></td>
                 <td>
-                    <a href="https://github.com/nazarrow/9.Programming_languages">
+                    <a href="https://github.com/nazarrow/9.Programming_languages/tree/main/Java">
                         <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/java.png" title="Java"
                             alt="Java" width="40" height="60" />
                     </a>
@@ -187,7 +187,7 @@
                     </a>
                 </td>
                 <td>
-                    <a href="https://github.com/nazarrow/10.Message_brokers/blob/main/Apache%20Kafka.md">
+                    <a href="https://github.com/nazarrow/10.Message_brokers">
                         <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/apache_kafka.png"
                             title="Apache_Kafka" alt="Apache_Kafka" width="40" height="40" />
                     </a>
@@ -207,19 +207,19 @@
                 <td rowspan="4">Monitoring, logging, analytics systems</td>
                 <td>ELK Stack</td>
                 <td>
-                    <a href="https://github.com/nazarrow/12.Monitoring_logging_analytics_systems/tree/main/ELK%20Stack">
+                    <a href="https://github.com/nazarrow/12.Monitoring_logging_analytics_systems/tree/main">
                         <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/Elasticsearch.png"
                             title="Elastickearch" alt="Elastickearch" width="40" height="40" />
                     </a>
                 </td>
                 <td>
-                    <a href="https://github.com/nazarrow/12.Monitoring_logging_analytics_systems/tree/main/ELK%20Stack">
+                    <a href="https://github.com/nazarrow/12.Monitoring_logging_analytics_systems/tree/main">
                         <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/Kibana.png"
                             title="Kibana" alt="Kibana" width="40" height="40" />
                     </a>
                 </td>
                 <td>
-                    <a href="https://github.com/nazarrow/12.Monitoring_logging_analytics_systems/tree/main/ELK%20Stack">
+                    <a href="https://github.com/nazarrow/12.Monitoring_logging_analytics_systems/tree/main">
                         <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/Logstash.png"
                             title="Logstash" alt="Logstash" width="40" height="40" />
                     </a>
@@ -228,7 +228,7 @@
             <tr>
                 <td>Zabbix</td>
                 <td>
-                    <a href="https://github.com/nazarrow/12.Monitoring_logging_analytics_systems/tree/main/Zabbix">
+                    <a href="https://github.com/nazarrow/12.Monitoring_logging_analytics_systems/tree/main">
                         <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/zabbix.png"
                             title="Zabbix" alt="Zabbix" width="40" height="40" />
                     </a>
@@ -237,7 +237,7 @@
             <tr>
                 <td>Grafana</td>
                 <td>
-                    <a href="https://github.com/nazarrow/12.Monitoring_logging_analytics_systems/tree/main/Grafana">
+                    <a href="https://github.com/nazarrow/12.Monitoring_logging_analytics_systems/tree/main">
                         <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/Grafana.png"
                             title="Grafana" alt="Grafana" width="40" height="40" />
                     </a>
@@ -246,7 +246,7 @@
             <tr>
                 <td>Mixpanel</td>
                 <td>
-                    <a href="https://github.com/nazarrow/12.Monitoring_logging_analytics_systems/tree/main/Mixpanel">
+                    <a href="https://github.com/nazarrow/12.Monitoring_logging_analytics_systems/tree/main">
                         <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/Mixpanel.png"
                             title="Mixpanel" alt="Mixpanel" width="40" height="40" />
                     </a>
