@@ -264,7 +264,7 @@
             <a href="https://stepik.org/cert/2282328">Docker for beginners + practical experience</a>
         </li>
         <li>
-            <a href="https://drive.google.com/file/d/1VwTISFCtWbEHcY5BpLQxBxSQppiZSI0Z/view">Certificate of Artem Rusov:
+            <a href="https://stepik.org/cert/2360407">Certificate of Artem Rusov:
                 Software testing from
                 scratch</a>
         </li>
