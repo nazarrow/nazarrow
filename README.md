@@ -261,6 +261,9 @@
             height="30" />Certificates:</h1>
     <ul>
         <li>
+            <a href="https://stepik.org/cert/2538237?lang=en">Postman-ninja: From scratch to autotests</a>
+        </li>
+        <li>
             <a href="https://stepik.org/cert/2282328">Docker for beginners + practical experience</a>
         </li>
         <li>
