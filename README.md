@@ -41,7 +41,7 @@
                 <td>GUI</td>
                 <td>
                     <a>
-                        <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/PGadmin.png"
+                        <img src="https://raw.githubusercontent.com/nazarrow/nazarrow/main/icons/postgresql.png"
                             title="PgAdmin" alt="PgAdmin" width="40" height="40" />
                     </a>
                 </td>
