@@ -233,6 +233,9 @@
     <h1>📜Certificates:</h1>
     <ul>
         <li>
+            <a href="https://stepik.org/cert/2866227?lang=en">DevOps in simple language</a>
+        </li>
+        <li>
             <a href="https://stepik.org/cert/2282328">Docker for beginners + practical experience</a>
         </li>
         <li>
